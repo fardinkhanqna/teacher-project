@@ -31,7 +31,7 @@ export default function TeacherSearch() {
 
       }}
     >
-      <h2 style={{ textAlign: "center" }}>Teacher Problem Tracker</h2>
+      <h2 style={{ textAlign: "center" }}>Teacher's Individual Activity</h2>
       <form onSubmit={handleSearch}>
         <input
           type="number"
