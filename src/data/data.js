@@ -1884,4 +1884,9 @@ export const teachers = [
     "Tpin ": 23459,
     "Grand Total": 930,
   },
+   {
+    "SL ": 378,
+    "Tpin ": 18131,
+    "Grand Total": 950,
+  },
 ];
